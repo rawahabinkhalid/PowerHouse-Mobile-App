@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">365694834036-n1fecvm1n3jnh69f1h1dcu9lbq5muhj3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">365694834036</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0yiK7rxXek6mMkNDMoqG8JZ_xCUkHEzU</string>
+    <string name="google_app_id" translatable="false">1:365694834036:android:c50b2bff33023fde0f0821</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0yiK7rxXek6mMkNDMoqG8JZ_xCUkHEzU</string>
+    <string name="google_storage_bucket" translatable="false">powerhouse-47aec.appspot.com</string>
+    <string name="project_id" translatable="false">powerhouse-47aec</string>
+</resources>

@@ -1,0 +1,14 @@
+com/power/ReactNativeFlipper.java
+ com.power.ReactNativeFlipper
+ com.power.ReactNativeFlipper$1
+ com.power.ReactNativeFlipper$2
+ com.power.ReactNativeFlipper$2$1
+com/powerhouseclipsal/MainApplication.java
+ com.powerhouseclipsal.MainApplication
+ com.powerhouseclipsal.MainApplication$1
+com/powerhouseclipsal/BuildConfig.java
+ com.powerhouseclipsal.BuildConfig
+com/powerhouseclipsal/MainActivity.java
+ com.powerhouseclipsal.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

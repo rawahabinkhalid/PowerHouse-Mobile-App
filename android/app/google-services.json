@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365694834036",
+    "project_id": "powerhouse-47aec",
+    "storage_bucket": "powerhouse-47aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365694834036:android:c50b2bff33023fde0f0821",
+        "android_client_info": {
+          "package_name": "com.powerhouseclipsal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365694834036-n1fecvm1n3jnh69f1h1dcu9lbq5muhj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yiK7rxXek6mMkNDMoqG8JZ_xCUkHEzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365694834036-n1fecvm1n3jnh69f1h1dcu9lbq5muhj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
