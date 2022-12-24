@@ -4,12 +4,13 @@ buildscript {
     ext {
         googlePlayServicesVersion = "+" // default: "+"
         firebaseMessagingVersion = "21.1.0" // default: "21.1.0"
-        buildToolsVersion = "30.0.3"
+        buildToolsVersion = "30.0.2"
         minSdkVersion = 21
-        compileSdkVersion = 30
-        targetSdkVersion = 30
+        compileSdkVersion = 31
+        targetSdkVersion = 31
         ndkVersion = "20.1.5948944"
         googlePlayServicesVersion      = "17.0.0"
+
     }
     repositories {
         google()
@@ -25,6 +26,16 @@ buildscript {
 
 allprojects {
     repositories {
+        exclusiveContent {
+           filter {
+               includeGroup "com.facebook.react"
+           }
+           forRepository {
+               maven {
+                   url "$rootDir/../node_modules/react-native/android"
+               }
+           }
+       }
         mavenLocal()
         maven {
             // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
